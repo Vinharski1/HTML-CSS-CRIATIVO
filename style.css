@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-}
+}  
 .cabecalho {
     background-color: #84deff;
     display: flex;
@@ -15,6 +15,9 @@
     display: inline-block;
     align-items: center;
     font-size: 24px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
 }
 .escola {
     background: rgb(132,222,255);
@@ -32,4 +35,23 @@
 }
 .escola-titulo {
     padding: 24px 0;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+.escola-texto-um {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.escola-texto-dosi {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.estudante-imagem {
+    width: 120px;
+}
+.estudante-icone {
+    width: 24px;
 }
