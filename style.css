@@ -14,6 +14,7 @@
 .cabecalho-lista-item {
     display: inline-block;
     align-items: center;
+    padding: 7px;
     font-size: 24px;
     font-family: "Poppins", sans-serif;
     font-weight: 600;
@@ -26,12 +27,13 @@
     justify-content: center;
     align-items: center;
     padding: 24px 0;
+    height: 500px;
 }
 .escola-div-conteudo {
     width: 35%;
 }
 .escola-imagem {
-    width: 20%;
+    width: 22%;
 }
 .escola-titulo {
     padding: 24px 0;
@@ -43,8 +45,9 @@
     font-family: "Poppins", sans-serif;
     font-weight: 500;
     font-style: normal;
+    height: 115px;
 }
-.escola-texto-dosi {
+.escola-texto-dois {
     font-family: "Poppins", sans-serif;
     font-weight: 500;
     font-style: normal;
