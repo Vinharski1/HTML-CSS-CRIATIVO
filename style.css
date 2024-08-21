@@ -11,16 +11,16 @@
 .cabecalho-imagem {
     width: 22%;
 }
-.cabecalho-lista-item {
+.cabecalho-lista-item a{
     display: inline-block;
     align-items: center;
     padding: 7px;
-    font-size: 24px;
+    font-size: 22px;
     font-family: "Poppins", sans-serif;
     font-weight: 600;
     font-style: normal;
 }
-.escola {
+#escola {
     background: rgb(132,222,255);
     background: linear-gradient(rgba(132,222,255,1) 0%, rgba(90,181,214,1) 32%, rgba(52,148,183,1) 64%, rgba(23,132,172,1) 100%);
     display: flex;
@@ -51,6 +51,9 @@
     font-family: "Poppins", sans-serif;
     font-weight: 500;
     font-style: normal;
+}
+#estudante {
+    padding: 24px 0;
 }
 .estudante-imagem {
     width: 120px;
