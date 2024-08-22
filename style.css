@@ -11,8 +11,13 @@
 .cabecalho-imagem {
     width: 22%;
 }
+ul {
+    list-style-type: none;
+    display: flex;
+}
 .cabecalho-lista-item a{
     display: inline-block;
+    text-decoration: none;
     align-items: center;
     padding: 7px;
     font-size: 22px;
